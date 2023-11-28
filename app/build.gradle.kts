@@ -58,4 +58,5 @@ dependencies {
     implementation("com.google.android.gms:play-services-location:21.0.1")
     debugImplementation("androidx.compose.ui:ui-tooling")
     debugImplementation("androidx.compose.ui:ui-test-manifest")
+    implementation("androidx.car.app:app:1.2.0")
 }
